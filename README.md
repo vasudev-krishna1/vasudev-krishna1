@@ -1,6 +1,6 @@
 Welcome to My GitHub Repository!
 About Me
-I'm a passionate BCA (Bachelor of Computer Applications) student enthusiastic about technology and programming. I believe in continuous learning and enjoy exploring various facets of computer science.
+I'm a passionate BCA (Bachelor of Computer Applications) student enthusiastic about technology and programming. I believe in continuous learning and enjoy exploring various facts of computer science.
 
 Skills
 Technical Skills
